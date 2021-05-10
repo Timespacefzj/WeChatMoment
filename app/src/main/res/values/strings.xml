@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeChatMoments</string>
+    <string name="no_network_with_airplane_mode">无网络连接，请关闭飞行模式</string>
+    <string name="bad_network_without_sim">网络信号差，请更换其他网络</string>
+    <string name="bad_network_with_sim_closed">网络信号差，请开启移动网络</string>
+    <string name="network_status_error">网络状态错误</string>
+    <string name="network_failed">网络连接失败，请稍后重试</string>
+    <string name="bad_network">网络信号差</string>
+    <string name="network_timestamp_timeout">当前手机系统时间不准确，请先设置时间</string>
+    <string name="network_server_exception">服务器错误</string>
+    <string name="no_network">无网络连接</string>
+    <string name="moments_tilte">朋友圈</string>
+</resources>

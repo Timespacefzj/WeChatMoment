@@ -1,0 +1,2 @@
+rootProject.name = "WeChatMoments"
+include ':app'
